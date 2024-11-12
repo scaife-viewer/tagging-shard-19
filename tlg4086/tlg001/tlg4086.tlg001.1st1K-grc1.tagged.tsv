@@ -1,0 +1,17 @@
+1	0	Μετὰ	ADP	R-		μετά	case	4
+1	1	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	4
+1	2	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	3
+1	3	χαλκοῦ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	χαλκός	nmod	4
+1	4	ἐξίωσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐξίωσις	ROOT	4
+1	5	καὶ	CCONJ	C-		καί	cc	4
+1	6	μέλανσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	μέλανμι	conj	4
+1	7	καὶ	CCONJ	C-		καί	cc	4
+1	8	ἐς	ADP	R-		εἰς	case	10
+1	9	ὕστερον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	ὕστερος	amod	10
+1	10	λεύκωσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	λεύκωσις	conj	4
+1	11	,	PUNCT	Z		,	iobj	14
+1	12	τότε	ADV	Df		τότε	advmod	14
+1	13	ἔσται	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	εἰμί	cop	14
+1	14	βεβαία	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	βέβαιος	ROOT	14
+1	15	ξάνθωσις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	σάνθωσις	nsubj	14
+1	16	.	PUNCT	Z		.	punct	14
